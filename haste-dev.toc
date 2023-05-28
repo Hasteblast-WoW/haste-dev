@@ -1,0 +1,9 @@
+## Interface: 11403
+## Author: Josh Santos <josh@omnidapps.com>
+## Title: Haste Dev
+## Notes: This plugin is in |cFFFF0000development|r.
+## SavedVariables: HasteDevDB
+## Version: 0.0.1
+
+# Extract this to separate plugin
+src/developer-mode.lua

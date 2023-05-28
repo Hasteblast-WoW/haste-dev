@@ -1,0 +1,7 @@
+{
+    "wowAPI.emmyLua.loadFrameXML": false,
+    "Lua.diagnostics.globals": [
+        "SlashCmdList",
+        "class"
+    ]
+}
