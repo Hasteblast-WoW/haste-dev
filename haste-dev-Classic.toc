@@ -7,3 +7,4 @@
 
 # Extract this to separate plugin
 src/developer-mode.lua
+addons/addons.xml

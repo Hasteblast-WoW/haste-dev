@@ -1,0 +1,3 @@
+[submodule "addons/bagnon-ui-mods"]
+	path = addons/bagnon-ui-mods
+	url = git@github.com:Hasteblast-WoW/bagnon-ui-mods.git
